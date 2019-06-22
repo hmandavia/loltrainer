@@ -1,0 +1,3883 @@
+{
+    "summoner": {
+        "summonerName": "sentaiyou",
+        "ranked": {
+            "solo": {
+                "tier": "Challenger",
+                "division": "I",
+                "icon": "challenger.png",
+                "points": "300"
+            },
+            "flex5": {
+                "tier": "Diamond",
+                "division": "II",
+                "icon": "diamond_ii.png",
+                "points": "75"
+            },
+            "flex3": {
+                "tier": "Unranked",
+                "division": "",
+                "icon": "provisional.png",
+                "points": "-"
+            }
+        },
+        "recentGamesList": [{
+                "id": 1,
+                "type": "Ranked Solo",
+                "timeAgo": "17 mins ago",
+                "duration": "36m 42s",
+                "result": "Victory",
+                "playerStats": {
+                    "kills": 7,
+                    "assists": 20,
+                    "deaths": 5,
+                    "level": 18,
+                    "cs": 261,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "conqueror",
+                    "secondaryStyle": "resolve",
+                    "role": "Top",
+                    "multiKill": "Double",
+                    "champion": {
+                        "name": "Irelia"
+                    },
+                    "summonerSpells": {
+                        "spell1": "teleport",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "type": "Ranked Flex 5:5",
+                "timeAgo": "14 hours ago",
+                "duration": "42m 56s",
+                "result": "Defeat",
+                "playerStats": {
+                    "kills": 10,
+                    "assists": 15,
+                    "deaths": 3,
+                    "level": 18,
+                    "cs": 341,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "pressTheAttack",
+                    "secondaryStyle": "sorcery",
+                    "role": "Jungle",
+                    "multiKill": "Quadra",
+                    "champion": {
+                        "name": "Camille"
+                    },
+                    "summonerSpells": {
+                        "spell1": "smite",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "type": "Normal",
+                "timeAgo": "3 days ago",
+                "duration": "28m 37s",
+                "result": "Victory",
+                "playerStats": {
+                    "kills": 21,
+                    "assists": 9,
+                    "deaths": 7,
+                    "level": 18,
+                    "cs": 304,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "conqueror",
+                    "secondaryStyle": "domination",
+                    "role": "Mid",
+                    "multiKill": "Penta",
+                    "champion": {
+                        "name": "Yasuo"
+                    },
+                    "summonerSpells": {
+                        "spell1": "dot",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 4,
+                "type": "Normal",
+                "timeAgo": "3 days ago",
+                "duration": "28m 37s",
+                "result": "Victory",
+                "playerStats": {
+                    "kills": 21,
+                    "assists": 9,
+                    "deaths": 7,
+                    "level": 18,
+                    "cs": 304,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "conqueror",
+                    "secondaryStyle": "domination",
+                    "role": "Mid",
+                    "multiKill": "Penta",
+                    "champion": {
+                        "name": "Yasuo"
+                    },
+                    "summonerSpells": {
+                        "spell1": "dot",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 5,
+                "type": "Normal",
+                "timeAgo": "3 days ago",
+                "duration": "28m 37s",
+                "result": "Victory",
+                "playerStats": {
+                    "kills": 21,
+                    "assists": 9,
+                    "deaths": 7,
+                    "level": 18,
+                    "cs": 304,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "conqueror",
+                    "secondaryStyle": "domination",
+                    "role": "Mid",
+                    "multiKill": "Penta",
+                    "champion": {
+                        "name": "Yasuo"
+                    },
+                    "summonerSpells": {
+                        "spell1": "dot",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "type": "Normal",
+                "timeAgo": "3 days ago",
+                "duration": "28m 37s",
+                "result": "Victory",
+                "playerStats": {
+                    "kills": 21,
+                    "assists": 9,
+                    "deaths": 7,
+                    "level": 18,
+                    "cs": 304,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "conqueror",
+                    "secondaryStyle": "domination",
+                    "role": "Mid",
+                    "multiKill": "Penta",
+                    "champion": {
+                        "name": "Yasuo"
+                    },
+                    "summonerSpells": {
+                        "spell1": "dot",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "type": "Normal",
+                "timeAgo": "3 days ago",
+                "duration": "28m 37s",
+                "result": "Victory",
+                "playerStats": {
+                    "kills": 21,
+                    "assists": 9,
+                    "deaths": 7,
+                    "level": 18,
+                    "cs": 304,
+                    "wards": 23,
+                    "controlWards": 6,
+                    "damage": 34000,
+                    "keystone": "conqueror",
+                    "secondaryStyle": "domination",
+                    "role": "Mid",
+                    "multiKill": "Penta",
+                    "champion": {
+                        "name": "Yasuo"
+                    },
+                    "summonerSpells": {
+                        "spell1": "dot",
+                        "spell2": "flash"
+                    },
+                    "finalBuild": {
+                        "item1": {
+                            "id": "1001"
+                        },
+                        "item2": {
+                            "id": "1001"
+                        },
+                        "item3": {
+                            "id": "1001"
+                        },
+                        "item4": {
+                            "id": "1001"
+                        },
+                        "item5": {
+                            "id": "1001"
+                        },
+                        "item6": {
+                            "id": "1001"
+                        },
+                        "trinket": {
+                            "id": "1001"
+                        }
+                    }
+                },
+                "playerTeam": {
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Victory",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                },
+                "opponentTeam":{
+                    "kills": 42,
+                    "deaths": 25,
+                    "assists": 60,
+                    "dragons": 4,
+                    "barons": 2,
+                    "turrets": 11,
+                    "result": "Defeat",
+                    "players": [{
+                            "id": 1,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "name": "sentaiyou",
+                            "stats": {
+                                "kills": 7,
+                                "assists": 20,
+                                "deaths": 5,
+                                "level": 18,
+                                "cs": 261,
+                                "wards": 23,
+                                "controlWards": 6,
+                                "damage": 34000,
+                                "keystone": "conqueror",
+                                "secondaryStyle": "resolve",
+                                "role": "Top",
+                                "multiKill": "Double",
+                                "champion": {
+                                    "name": "Irelia"
+                                },
+                                "summonerSpells": {
+                                    "spell1": "teleport",
+                                    "spell2": "flash"
+                                },
+                                "finalBuild": {
+                                    "item1": {
+                                        "id": "1001"
+                                    },
+                                    "item2": {
+                                        "id": "1001"
+                                    },
+                                    "item3": {
+                                        "id": "1001"
+                                    },
+                                    "item4": {
+                                        "id": "1001"
+                                    },
+                                    "item5": {
+                                        "id": "1001"
+                                    },
+                                    "item6": {
+                                        "id": "1001"
+                                    },
+                                    "trinket": {
+                                        "id": "1001"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

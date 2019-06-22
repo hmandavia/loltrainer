@@ -1,0 +1,1 @@
+export { RecentGameTabs } from  "./RecentGameTabs";

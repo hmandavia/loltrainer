@@ -1,0 +1,11 @@
+export { IChampion } from "./IChampion";
+export { IPlayer } from "./IPlayer";
+export { IPlayerStats } from "./IPlayerStats";
+export { IRank } from "./IRank";
+export { IRankSet } from "./IRankSet";
+export { IRecentGame } from "./IRecentGame";
+export { ISummoner } from "./ISummoner";
+export { ITeam } from "./ITeam";
+export { IFinalBuild } from "./IFinalBuild";
+export { IShopItem } from "./IShopItem";
+export { ISummonerSpells } from "./ISummonerSpells";
